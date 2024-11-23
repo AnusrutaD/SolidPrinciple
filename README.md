@@ -1,4 +1,4 @@
-# Solid Principle
+# SOLID Principle
 
 ## Single Responsibility Principle
 
