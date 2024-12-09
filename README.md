@@ -16,7 +16,7 @@ subclass should extend the capability of parent class not narrow it down
 
 ## Interface Segregation Principle
 
-Interface should be such, that client should implement unnecessary function they do not need 
+Interface should be such, that client should not implement unnecessary function they do not need 
 
 ## Dependency Inversion Principle
 
